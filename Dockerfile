@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.15.4
 MAINTAINER Zach Grace (@ztgrace)
 
 RUN mkdir /changeme
