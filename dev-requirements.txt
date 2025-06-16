@@ -3,3 +3,4 @@ mock
 mock-ssh-server
 nose
 responses==0.7.0
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
